@@ -1,0 +1,6 @@
+Microsoft Excel 2016 or later
+Pivot Tables enabled
+Pivot Charts enabled
+Slicer functionality
+Combo Chart (Bar + Line) support
+Windows OS recommended
